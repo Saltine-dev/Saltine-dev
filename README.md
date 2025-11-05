@@ -4,7 +4,7 @@
 
 ### Full-Stack Engineer
 
-[![Discord](https://img.shields.io/badge/Discord-Grim__Rust-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/Grim_Rust)
+[![Discord](https://img.shields.io/badge/Discord-Grim__Rust-5865F2?style=flat-square&logo=discord&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-Saltine--dev-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Saltine-dev)
 
 </div>
@@ -60,7 +60,7 @@ Passionate about building robust, secure, and scalable solutions across the full
 
 ### Contact
 
-[Discord](https://discord.com/users/Grim_Rust) • [GitHub](https://github.com/Saltine-dev)
+[Discord]() • [GitHub](https://github.com/Saltine-dev)
 
 ---
 
