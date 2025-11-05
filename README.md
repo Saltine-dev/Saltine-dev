@@ -66,7 +66,7 @@ Passionate about building robust, secure, and scalable solutions across the full
 
 <div align="center">
 
-<sub>"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." — Antoine de Saint-Exupéry</sub>
+<sub>"The hardest step to take is said to be the first, but in reality it's the third, right before your balls touch the water." - Grim</sub>
 
 </div>
 
